@@ -39,7 +39,7 @@ The home page contains the basic details of the company. These include:
 |--------------|--------------|
 | Company Details | Compant name input box |
 | | company Reg. number | |
-| Tax number | |
+| | Tax number | |
 
 | Conatct Details | Contact Name |
 | | Contsct surname | |
