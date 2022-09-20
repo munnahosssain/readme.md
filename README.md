@@ -40,17 +40,14 @@ The home page contains the basic details of the company. These include:
 | Company Details | Compant name input box |
 | | company Reg. number | |
 | | Tax number | |
-
 | Conatct Details | Contact Name |
 | | Contsct surname | |
 | | Contact Email | |
 | | Contact number | |
-
 | Trip Details | Pickup date |
 | | Pickup date | |
 | | Pickup address | |
 | | Drop-off Address | |
-
 | Car Details | Car Seat (e.g 5 seater) |
 | Submit | Generate quata button |
 
