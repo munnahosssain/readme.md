@@ -65,3 +65,13 @@ The following are the inputs contained in the contact us form:
 ## Hardest Sections & Lessons Learnt
 
 The navbar was particularly difficult because i had not leartn flexbox yet therefore i relied on floats to move my navigation content. This seemed like a good resolution until the navigation links started getting kicked out of the header section. A fix to this was to make sure the nav links were structured before the logo in html.
+
+### Working Solution
+The above solution was only temporary and it didn't work as well as i wanted it to so i went on to learn flexbox so i can find a fix for it
+
+## Additional Challenges
+Styling the forms has been very difficult because i had recently started learning flex. Therefore it took me long to learn the parent-child method in flex. I am still not an expert at flex, however, i can execute flex better than i did in this project. I will not try to fix or change the way i solved it in this project. The reason being i would like to look back at this code one day and see the growth i had.
+
+## Final thoughts
+
+This project was not easy at all and the longer i worked on it, the more it took out of me. I started strong and i burnt out 80% through. With that being said, it has also been my favourite project so far because i did not rely fully on tutorials to complete it. I only used tutorials to understand smaller concepts and not full sections.
