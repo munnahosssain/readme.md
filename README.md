@@ -76,6 +76,7 @@ Styling the forms has been very difficult because i had recently started learnin
 
 This project was not easy at all and the longer i worked on it, the more it took out of me. I started strong and i burnt out 80% through. With that being said, it has also been my favourite project so far because i did not rely fully on tutorials to complete it. I only used tutorials to understand smaller concepts and not full sections.
 
+Samples: jQuery src, Node.js lib and src, D3.js src, AngularJS src, Adobe Brackets src, three.js src, Express lib, Socket.IO lib, Less.js lib, Redis src, Ace lib, Semantic UI src, Zepto.js src, Emscripten src, RethinkDB src, Bitcoin src, MongoDB src, Facebook React src, Rust src, ASP.NET src, SignalR src, libgit2 src
 
 > *"If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved"*
 > *** - A B C***
