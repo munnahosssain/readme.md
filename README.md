@@ -78,4 +78,4 @@ This project was not easy at all and the longer i worked on it, the more it took
 
 
 > *"If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved"*
-> ***A B C***
+> *** - A B C***
