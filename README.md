@@ -51,5 +51,20 @@ The home page contains the basic details of the company. These include:
 | | Pickup address | |
 | | Drop-off Address | |
 
-| Trip Details | Pickup date |
+| Car Details | Car Seat (e.g 5 seater) |
 | Submit | Generate quata button |
+
+## Contact Us Page
+The contact us page comprises of a form that allows users to insert their details and submit for them to be contacted.
+
+The following are the inputs contained in the contact us form:
+
+- Contact Name
+- Contact Surname
+- Contact Email Address
+- Contact Number
+- Text Area
+
+## Hardest Sections & Lessons Learnt
+
+The navbar was particularly difficult because i had not leartn flexbox yet therefore i relied on floats to move my navigation content. This seemed like a good resolution until the navigation links started getting kicked out of the header section. A fix to this was to make sure the nav links were structured before the logo in html.
