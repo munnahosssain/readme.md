@@ -75,3 +75,7 @@ Styling the forms has been very difficult because i had recently started learnin
 ## Final thoughts
 
 This project was not easy at all and the longer i worked on it, the more it took out of me. I started strong and i burnt out 80% through. With that being said, it has also been my favourite project so far because i did not rely fully on tutorials to complete it. I only used tutorials to understand smaller concepts and not full sections.
+
+
+> *"If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved"*
+> ***A B C***
